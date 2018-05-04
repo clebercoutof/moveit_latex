@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{rviz_site}
+ROS Community.
+\newblock Rviz user guide.
+\newblock \url{http://wiki.ros.org/rviz/UserGuide} [Accessed: 04.05.2018].
+
+\bibitem{moveit}
+Ioan~A. Sucan and Sachin Chitta.
+\newblock Move it!
+\newblock \url{http://moveit.ros.org} [Accessed: 04.05.2018].
+
+\end{thebibliography}
